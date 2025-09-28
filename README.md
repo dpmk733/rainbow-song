@@ -1,2 +1,4 @@
 # rainbow-song
-a song for raibows 
+
+a song for rainbows
+
